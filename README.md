@@ -51,7 +51,7 @@
 ----------------------------------------------------------------
 
 ## Diagrama de Actividad
-![Diagrama de Actividad](diagrama-actividad-sicofar.png)
+![Diagrama de Actividad](DiagramaDeActividad(SICOFAR).png)
 
 ----------------------------------------------------------------
 
